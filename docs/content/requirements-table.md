@@ -10,7 +10,7 @@ hide:
 
 <script src="../csv-parser.js"></script>
 <script>
-    window.fetch('requirements.csv').then(response => response.text()).then(text => {
+    window.fetch('./requirements.csv').then(response => response.text()).then(text => {
         let array = CSVToArray(text).filter(row => {
             const comparison = row.length != 1 || row[0] !== ''
             return comparison;
