@@ -30,5 +30,6 @@ repo_url: https://github.com/NFDI4Energy/requirements_template
 
 # Navigation
 nav:
-  - Home: index.md
-  - 
+  - Home: ./content/index.md
+  - Requirement Table: ./content/requirements-table.md
+  - Requirement Metadata Schema: ./content/requirements_metadata_schema.md
