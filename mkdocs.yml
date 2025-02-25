@@ -1,5 +1,5 @@
 site_name: NFDI4Energy Requirements Template
-site_url: https://nfdi4energy.github.io/requirements_template/
+site_url: https://nfdi4energy.github.io/requirements_template/content/
 docs_dir: docs
 theme:
   name: material
