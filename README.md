@@ -1,6 +1,6 @@
 # Requirements Template
 This is a repository template to manage the requirements analysis. 
-For information regarding the Configuration of this repository please look through the [CONFIGURATION.md](CONFIGURATION.md).
+For information regarding the Configuration of this repository please look through the [CONFIGURATION.md](CONFIGURATION.MD).
 
 In this file a README Template will follow:
 
